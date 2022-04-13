@@ -16,4 +16,4 @@
 </div>
 
   ##
-  ![Snake animation](https://github.com/leocapeccir/leocapeccir/blob/output/github-contribution-grid-snake.svg)
+  
