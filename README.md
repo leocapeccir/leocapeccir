@@ -1,6 +1,7 @@
 - 👋 Oi, eu sou o @capeccileor;
 - 👀 Estou interessado em front-end;
 - 🌱 HTML5/CSS3/Javascript/Flutter/React/python;
+- 👋 Em busca do primeiro Estágio;
 
 
 </div>
