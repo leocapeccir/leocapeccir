@@ -1,6 +1,6 @@
-- 👋 Oi, eu sou o @leocapeccir;
+- 👋 Oi, eu sou o @capeccileor;
 - 👀 Estou interessado em front-end;
-- 🌱 Estudando HTML5/CSS3/Javascript
+- 🌱 HTML5/CSS3/Javascript/Flutter/React/python;
 
 
 </div>
