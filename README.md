@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou o @capeccileor;
-- 👀 Estou interessado em front-end;
+- 👀 Estou interessado em front-end e back-end;
 - 🌱 HTML5/CSS3/Javascript/Typescript/React/;
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
