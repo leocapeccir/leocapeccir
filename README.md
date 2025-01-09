@@ -67,4 +67,59 @@
       height="40"
       />
    </a>
+
+   
+      <a href="https://pptr.dev" target="_blank" rel="noreferrer">
+         <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+            alt="Puppeteer"
+            width="40"
+            height="40"
+         />
+         Puppeteer
+      </a>
+   
+   
+      <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+         <img
+            src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"
+            alt="Electron"
+            width="40"
+            height="40"
+         />
+         Electron
+      </a>
+  
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+         <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+            alt="SQL Server"
+            width="40"
+            height="40"
+         />
+         SQL Server
+      </a>
+  
+      <a href="https://fortinet.com" target="_blank" rel="noreferrer">
+         <img
+            src="https://upload.wikimedia.org/wikipedia/commons/3/35/Fortinet_logo.svg"
+            alt="FortiClient"
+            width="40"
+            height="40"
+         />
+         FortiClient
+      </a>
+  
+      <a href="https://anydesk.com" target="_blank" rel="noreferrer">
+         <img
+            src="https://upload.wikimedia.org/wikipedia/commons/5/5f/AnyDesk_logo.svg"
+            alt="AnyDesk"
+            width="40"
+            height="40"
+         />
+         AnyDesk
+      </a>
+  
 </p>
+
+
