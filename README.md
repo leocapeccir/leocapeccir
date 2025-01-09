@@ -94,7 +94,7 @@
    </a>
    <a href="https://fortinet.com" target="_blank" rel="noreferrer">
    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/3/35/Fortinet_logo.svg"
+      src="https://seeklogo.com/images/F/fortinet-logo-2020-F50A2BB661-seeklogo.com.png"
       alt="FortiClient"
       width="40"
       height="40"
@@ -102,7 +102,7 @@
    </a>
    <a href="https://anydesk.com" target="_blank" rel="noreferrer">
    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/5/5f/AnyDesk_logo.svg"
+      src="https://cdn.iconscout.com/icon/free/png-256/free-anydesk-3521216-2944870.png"
       alt="AnyDesk"
       width="40"
       height="40"
