@@ -92,15 +92,14 @@
       height="40"
       />
    </a>
-  <a href="https://fortinet.com" target="_blank" rel="noreferrer">
-   <img
-      src="https://logos-world.net/wp-content/uploads/2021/02/Fortinet-Logo.png"
-      alt="FortiClient"
-      width="40"
-      height="40"
-   />
-</a>
-
+ <a href="https://pptr.dev" target="_blank" rel="noreferrer">
+      <img
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+         alt="Puppeteer"
+         width="40"
+         height="40"
+      />
+   </a>
    <a href="https://anydesk.com" target="_blank" rel="noreferrer">
    <img
       src="https://cdn.iconscout.com/icon/free/png-256/free-anydesk-3521216-2944870.png"
