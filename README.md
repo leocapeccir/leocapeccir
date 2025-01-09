@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3745763f-a248-4781-afe8-e86ec9f3e64c)- 👋 Oi, eu sou o @capeccileor;
+- 👋 Oi, eu sou o @capeccileor;
 - 👀 Estou interessado em front-end e back-end;
 - 🌱 HTML5/CSS3/Javascript/Typescript/React/;
 
@@ -92,13 +92,7 @@
       height="40"
       />
    </a>
- <a href="https://pptr.dev" target="_blank" rel="noreferrer">
-      <img
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
-         alt="Puppeteer"
-         width="40"
-         height="40"
-      />
+
    </a>
    <a href="https://anydesk.com" target="_blank" rel="noreferrer">
    <img
