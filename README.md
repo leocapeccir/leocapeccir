@@ -94,7 +94,7 @@
    </a>
    <a href="https://fortinet.com" target="_blank" rel="noreferrer">
    <img
-      src="https://seeklogo.com/images/F/fortinet-logo-2020-F50A2BB661-seeklogo.com.png"
+   src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fortinet_Logo.svg"
       alt="FortiClient"
       width="40"
       height="40"
