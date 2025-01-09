@@ -1,6 +1,7 @@
 - 👋 Oi, eu sou o @capeccileor;
 - 👀 Estou interessado em front-end e back-end;
 - 🌱 HTML5/CSS3/Javascript/Typescript/React/;
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
@@ -63,6 +64,54 @@
    <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       alt="postman"
+      width="40"
+      height="40"
+      />
+   </a>
+   <a href="https://pptr.dev" target="_blank" rel="noreferrer">
+   <img
+      src="https://www.vectorlogo.zone/logos/puppeteer/puppeteer-icon.svg"
+      alt="Puppeteer"
+      width="40"
+      height="40"
+      />
+   </a>
+   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+   <img
+      src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"
+      alt="Electron"
+      width="40"
+      height="40"
+      />
+   </a>
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+   <img
+      src="https://www.vectorlogo.zone/logos/microsoft_sql/microsoft_sql-icon.svg"
+      alt="SQL Server"
+      width="40"
+      height="40"
+      />
+   </a>
+   <a href="https://forticlient.com" target="_blank" rel="noreferrer">
+   <img
+      src="https://www.vectorlogo.zone/logos/fortinet/fortinet-icon.svg"
+      alt="FortiClient"
+      width="40"
+      height="40"
+      />
+   </a>
+   <a href="https://anydesk.com" target="_blank" rel="noreferrer">
+   <img
+      src="https://www.vectorlogo.zone/logos/anydesk/anydesk-icon.svg"
+      alt="AnyDesk"
+      width="40"
+      height="40"
+      />
+   </a>
+   <a href="#" target="_blank" rel="noreferrer">
+   <img
+      src="https://www.vectorlogo.zone/logos/openvpn/openvpn-icon.svg"
+      alt="VPN"
       width="40"
       height="40"
       />
