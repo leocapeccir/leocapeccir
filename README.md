@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o @capeccileor;
+![image](https://github.com/user-attachments/assets/3745763f-a248-4781-afe8-e86ec9f3e64c)- 👋 Oi, eu sou o @capeccileor;
 - 👀 Estou interessado em front-end e back-end;
 - 🌱 HTML5/CSS3/Javascript/Typescript/React/;
 
@@ -92,14 +92,15 @@
       height="40"
       />
    </a>
-   <a href="https://fortinet.com" target="_blank" rel="noreferrer">
+  <a href="https://fortinet.com" target="_blank" rel="noreferrer">
    <img
-   src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fortinet_Logo.svg"
+      src="https://logos-world.net/wp-content/uploads/2021/02/Fortinet-Logo.png"
       alt="FortiClient"
       width="40"
       height="40"
-      />
-   </a>
+   />
+</a>
+
    <a href="https://anydesk.com" target="_blank" rel="noreferrer">
    <img
       src="https://cdn.iconscout.com/icon/free/png-256/free-anydesk-3521216-2944870.png"
