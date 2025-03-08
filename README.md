@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou o @capeccileor;
+- 👋 Oi, eu sou o @leocapeccir;
 - 👀 Estou interessado em front-end e back-end;
 - 🌱 HTML5/CSS3/Javascript/Typescript/React/;
 
